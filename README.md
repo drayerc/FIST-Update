@@ -98,10 +98,6 @@ View <a href="https://demos.creative-tim.com/argon-dashboard/pages/dashboard.htm
 
 ## Download and Installation
 
-- [Download from Github](https://github.com/creativetimofficial/argon-dashboard/archive/master.zip)
-- [Download from Creative Tim](https://www.creative-tim.com/product/argon-dashboard)
-
-
 - Install with Npm: `npm i @creative-tim-official/argon-dashboard-free`
 
 - Install with Yarn: `yarn add @creative-tim-official/argon-dashboard-free`
